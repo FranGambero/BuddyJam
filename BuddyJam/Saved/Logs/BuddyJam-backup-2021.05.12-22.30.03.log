@@ -1,0 +1,1076 @@
+﻿Log file open, 05/13/21 00:21:54
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: BuddyJam
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.424243
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Takox -epicuserid=b5588294fbc54a9096743b8740326da6 -epiclocale=en
+LogInit: Base Directory: D:/Juegos/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Engine.ini]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Engine.ini]
+[2021.05.12-22.21.54:990][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Engine.ini]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.12-22.21.54:990][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Engine.ini]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.12-22.21.54:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Engine.ini]
+[2021.05.12-22.21.54:991][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Engine.ini]
+[2021.05.12-22.21.55:033][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:033][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.12-22.21.55:033][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.12-22.21.55:033][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:033][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.12-22.21.55:033][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:033][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.12-22.21.55:033][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.12-22.21.55:033][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.12-22.21.55:034][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.12-22.21.55:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.12-22.21.55:036][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.12-22.21.55:036][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.12-22.21.55:036][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.12-22.21.55:036][  0]LogHAL: Display: Platform has ~ 8 GB [8494747648 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.12-22.21.55:036][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.12-22.21.55:037][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.12-22.21.55:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.12-22.21.55:038][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Scalability.ini]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.12-22.21.55:039][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.12-22.21.55:040][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.12-22.21.55:040][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.12-22.21.55:040][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.12-22.21.55:040][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Engine.ini]
+[2021.05.12-22.21.55:040][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Config/Windows/Editor.ini]
+[2021.05.12-22.21.55:040][  0]LogInit: Computer: DESKTOP-CDAO8E0
+[2021.05.12-22.21.55:040][  0]LogInit: User: frang
+[2021.05.12-22.21.55:041][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.05.12-22.21.55:041][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.12-22.21.55:041][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.05.12-22.21.55:041][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.12-22.21.55:041][  0]LogMemory: Process Physical Memory: 138.56 MB used, 138.56 MB peak
+[2021.05.12-22.21.55:041][  0]LogMemory: Process Virtual Memory: 112.86 MB used, 112.86 MB peak
+[2021.05.12-22.21.55:041][  0]LogMemory: Physical Memory: 6651.58 MB used,  1449.64 MB free, 8101.22 MB total
+[2021.05.12-22.21.55:041][  0]LogMemory: Virtual Memory: 134212424.00 MB used,  5300.02 MB free, 134217728.00 MB total
+[2021.05.12-22.21.55:050][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.12-22.21.55:127][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.12-22.21.55:129][  0]LogInit: Using OS detected language (es-ES).
+[2021.05.12-22.21.55:129][  0]LogInit: Using OS detected locale (es-ES).
+[2021.05.12-22.21.55:133][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2021.05.12-22.21.55:204][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.12-22.21.55:227][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.12-22.21.55:265][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.12-22.21.55:265][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.12-22.21.55:864][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.12-22.21.55:864][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.12-22.21.55:864][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.12-22.21.55:864][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.12-22.21.56:200][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2021.05.12-22.21.56:200][  0]LogD3D11RHI:       1983/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.12-22.21.56:247][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2021.05.12-22.21.56:247][  0]LogD3D11RHI:       128/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.05.12-22.21.56:253][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.12-22.21.56:253][  0]LogD3D11RHI:       0/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.12-22.21.56:253][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.12-22.21.56:264][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.12-22.21.56:264][  0]LogD3D11RHI:     GPU DeviceId: 0x1d12 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.12-22.21.56:264][  0]LogWindows: EnumDisplayDevices:
+[2021.05.12-22.21.56:265][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2021.05.12-22.21.56:265][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:1)
+[2021.05.12-22.21.56:266][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.05.12-22.21.56:266][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.05.12-22.21.56:266][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2021.05.12-22.21.56:266][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.05.12-22.21.56:266][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.05.12-22.21.56:266][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2021.05.12-22.21.56:439][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.12-22.21.56:439][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.12-22.21.56:439][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.12-22.21.56:466][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.12-22.21.56:468][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.12-22.21.57:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.12-22.21.57:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.12-22.21.57:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.12-22.21.57:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.12-22.21.57:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.12-22.21.57:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.12-22.21.57:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.12-22.21.57:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.12-22.21.57:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.12-22.21.57:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.12-22.21.57:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.12-22.21.57:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.12-22.21.57:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.12-22.21.57:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.12-22.21.57:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.12-22.21.57:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.12-22.21.57:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.12-22.21.57:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.12-22.21.57:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.12-22.21.57:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.12-22.21.57:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.12-22.21.57:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.12-22.21.57:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.12-22.21.57:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.12-22.21.57:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.12-22.21.57:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.12-22.21.57:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.12-22.21.57:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.12-22.21.57:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.12-22.21.57:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.12-22.21.57:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.12-22.21.57:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.12-22.21.57:456][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.12-22.21.57:468][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.12-22.21.57:596][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.12-22.21.57:596][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Intermediate/Shaders/WorkingDirectory/8684/).
+[2021.05.12-22.21.57:596][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/frang/AppData/Local/Temp/UnrealShaderWorkingDir/B6625FD94F4940444A97CCBB8AE83ABE/'.
+[2021.05.12-22.21.57:596][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.12-22.21.57:596][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.12-22.21.59:188][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.12-22.21.59:299][  0]LogDerivedDataCache: Loaded boot cache 0.11s 78MB C:/Users/frang/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.12-22.21.59:299][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/frang/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.12-22.21.59:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.12-22.21.59:299][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.12-22.21.59:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.12-22.21.59:299][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.12-22.21.59:317][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.12-22.21.59:317][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.12-22.21.59:317][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.12-22.21.59:343][  0]LogDerivedDataCache: Speed tests for C:/Users/frang/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.05.12-22.21.59:343][  0]LogDerivedDataCache: Display: Performance to C:/Users/frang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=884.24MBs, RandomWriteSpeed=40.02MBs. Assigned SpeedClass 'Local'
+[2021.05.12-22.21.59:346][  0]LogDerivedDataCache: Using Local data cache path C:/Users/frang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.12-22.21.59:346][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.12-22.21.59:346][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.12-22.21.59:460][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.12-22.21.59:461][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.12-22.21.59:503][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2021.05.12-22.22.00:070][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.12-22.22.00:070][  0]LogInit: Active device profile: [000001C384DBA300][000001C3F5D66CC0 49] Windows
+[2021.05.12-22.22.00:070][  0]LogInit: Profiles: [000001C384DBA300][000001C3F5D66CC0 49] Windows, [000001C384CFA700][000001C383FC8E40 49] WindowsNoEditor, [000001C384DB9500][000001C383FF4FC0 49] WindowsServer, [000001C384CFB400][000001C385011140 49] WindowsClient, [000001C384DBA000][000001C3850B92C0 49] IOS, [000001C384CF9500][000001C3850BD440 49] iPadAir, [000001C384DB9000][000001C383F9D580 49] iPadAir2, [000001C384B89F00][000001C3850C57C0 49] IPadPro, [000001C384B8A000][000001C3850C1800 49] iPadAir3, [000001C384CFBE00][000001C3850C9940 49] iPadAir4, [000001C384B8B700][000001C3850D1AC0 49] iPadMini2, [000001C384CF8F00][000001C3850D5C40 49] iPadMini3, [000001C384B89700][000001C3850D8100 49] iPadMini4, [000001C384CFB900][000001C3850DC280 49] iPadMini5, [000001C384BC5800][000001C3850E4540 49] iPhone6, [000001C384BC5900][000001C3850E0580 49] iPodTouch6, [000001C384DBAC00][000001C3850EC840 49] iPhone7, [000001C384DBAD00][000001C3850E8880 49] iPodTouch7, [000001C384BC6600][000001C3850F0A00 49] iPhone5S, [000001C384DB8600][000001C385182B80 49] iPhone6Plus, [000001C384BC7100][000001C385186D00 49] iPhone6S, [000001C384DBAF00][000001C38518AE80 49] iPhone6SPlus, [000001C384BC6100][000001C38518F000 49] iPhone7Plus, [000001C384DB9F00][000001C385193180 49] iPhoneSE, [000001C384BC4E00][000001C385197300 49] iPhone8, [000001C384DBA100][000001C38519B480 49] iPhone8Plus, [000001C384BC7C00][000001C38519F600 49] iPhoneX, [000001C384CF8C00][000001C3850CD740 49] iPhoneXS, [000001C384BC5000][000001C3851A3880 49] iPhoneXSMax, [000001C384CF9700][000001C3851A79C0 49] iPhoneXR, [000001C384BC6700][000001C3851AFB40 49] iPhone11, [000001C384CF9C00][000001C3851B3CC0 49] iPhone11Pro, [000001C384BC7000][000001C3851F8180 49] iPhone11ProMax, [000001C384CF9A00][000001C385200300 49] iPhoneSE2, [000001C384BC5F00][000001C385204480 49] iPhone12Mini, [000001C384CFA200][000001C3852A6600 49] iPhone12, [000001C384BC4100][000001C3852AA780 49] iPhone12Pro, [000001C384CF8100][000001C3852AE900 49] iPhone12ProMax, [000001C384BC6A00][000001C3852B2A80 49] iPadPro105, [000001C384CFB800][000001C3852B6C00 49] iPadPro129, [000001C384BC4A00][000001C3852BAD80 49] iPadPro97, [000001C384CF9D00][000001C3852BEF00 49] iPadPro2_129, [000001C384BC7500][000001C3852C3080 49] iPad5, [000001C384CF9400][000001C3852C7200 49] iPad6, [000001C384BC5E00][000001C3852CB380 49] iPad7, [000001C384CFB700][000001C3852CF500 49] iPad8, [000001C384BC4200][000001C3852D3680 49] iPadPro11, [000001C384CF8200][000001C3851AB7C0 49] iPadPro2_11, [000001C384BC5200][000001C3852DB900 49] iPadPro3_129, [000001C384CFB600][000001C3852F3A40 49] iPadPro4_129, [000001C384BC5600][000001C38534DB80 49] AppleTV, [000001C384CF9F00][000001C385355D00 49] AppleTV4K, [000001C384BC6300][000001C3FF9CA1C0 49] TVOS, [000001C384CFAD00][000001C3FF9D2340 49] Mac, [000001C384BC6200][000001C3FF9D64C0 49] MacClient, [000001C384CFB300][000001C3FFA02640 49] MacNoEditor, [000001C384BC7E00][000001C3FABD67C0 49] MacServer, [000001C384CFBB00][000001C3FABDA940 49] Linux, [000001C384BC4F00][000001C3FABDEAC0 49] LinuxAArch64, [000001C384CF8600][000001C3FABE2C40 49] LinuxNoEditor, [000001C384BC6400][000001C3FABE6DC0 49] LinuxAArch64NoEditor, [000001C384CF9000][000001C3FABEAF40 49] LinuxClient, [000001C384BC7200][000001C3FABEF0C0 49] LinuxAArch64Client, [000001C384CFB000][000001C3FABF3240 49] LinuxServer, [000001C384BC6E00][000001C3FABF73C0 49] LinuxAArch64Server, [000001C384CFA800][000001C3FABFB540 49] Android, [000001C384BC7B00][000001C3FABFF6C0 49] Android_Low, [000001C384CF9B00][000001C385351800 49] Android_Mid, [000001C384BC7400][000001C3FAC03940 49] Android_High, [000001C384CF9900][000001C3FAC07A80 49] Android_Default, [000001C384BC4C00][000001C3FAC0BBC0 49] Android_Adreno4xx, [000001C384CF8800][000001C3FAC13D40 49] Android_Adreno5xx_Low, [000001C384BC4B00][000001C3FAC16200 49] Android_Adreno5xx, [000001C384CFBA00][000001C3FAC1A380 49] Android_Adreno6xx, [000001C384BC6000][000001C3FAC1E500 49] Android_Adreno6xx_Vulkan, [000001C384CFA400][000001C3FAC22680 49] Android_Mali_T6xx, [000001C384BC6900][000001C3FAC26800 49] Android_Mali_T7xx, [000001C384B8A800][000001C3FAC2A980 49] Android_Mali_T8xx, [000001C384DB8A00][000001C3FAC2EB00 49] Android_Mali_G71, [000001C384B89B00][000001C383E90C80 49] Android_Mali_G72, [000001C384DBA500][000001C383E94E00 49] Android_Mali_G72_Vulkan, [000001C384B88800][000001C383E98F80 49] Android_Mali_G76, [000001C384DB9B00][000001C383E9D100 49] Android_Mali_G76_Vulkan, [000001C384B89E00][000001C383EA1280 49] Android_Mali_G77, [000001C384DB8500][000001C383EA5400 49] Android_Mali_G77_Vulkan, [000001C384B8A300][000001C383EA9580 49] Android_Vulkan_SM5, [000001C384DB9400][000001C383EAD700 49] Android_PowerVR_G6xxx, [000001C384B8BB00][000001C383EB1880 49] Android_PowerVR_GT7xxx, [000001C384DB8900][000001C3FAC0F9C0 49] Android_PowerVR_GE8xxx, [000001C384B88A00][000001C383EB5B00 49] Android_PowerVR_GM9xxx, [000001C384DB8D00][000001C383EB9C40 49] Android_PowerVR_GM9xxx_Vulkan, [000001C384B8BF00][000001C383EC0100 49] Android_TegraK1, [000001C384DB9800][000001C383EC4280 49] Android_Unknown_Vulkan, [000001C384B8A100][000001C383EC8400 49] Lumin, [000001C384DBAE00][000001C383ECC580 49] Lumin_Desktop, [000001C384B8A900][000001C383ED0700 49] HoloLens, 
+[2021.05.12-22.22.00:342][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.12-22.22.00:342][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.12-22.22.00:342][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.12-22.22.00:342][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.12-22.22.00:342][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.12-22.22.00:378][  0]LogNetVersion: BuddyJam 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1313081293)
+[2021.05.12-22.22.01:538][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.12-22.22.01:652][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.112161 seconds
+[2021.05.12-22.22.01:673][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.12-22.22.01:673][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.12-22.22.01:673][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.12-22.22.02:570][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.12-22.22.02:600][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.12-22.22.02:777][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.12-22.22.02:778][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.12-22.22.02:785][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.12-22.22.02:798][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.12-22.22.02:812][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.12-22.22.02:825][  0]LogUProjectInfo: Found projects:
+[2021.05.12-22.22.03:228][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.12-22.22.03:272][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.12-22.22.03:272][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.12-22.22.03:372][  0]LogCollectionManager: Loaded 0 collections in 0.001164 seconds
+[2021.05.12-22.22.03:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Collections/' took 0.00s
+[2021.05.12-22.22.03:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/Developers/frang/Collections/' took 0.00s
+[2021.05.12-22.22.03:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/Collections/' took 0.00s
+[2021.05.12-22.22.03:425][  0]LogOcInput: OculusInput pre-init called
+[2021.05.12-22.22.03:451][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.12-22.22.03:451][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.12-22.22.03:549][  0]LogEngine: Initializing Engine...
+[2021.05.12-22.22.03:556][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.12-22.22.03:556][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.12-22.22.03:557][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.12-22.22.03:774][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.12-22.22.03:790][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.12-22.22.03:837][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.12-22.22.03:845][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.12-22.22.03:845][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.12-22.22.03:845][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-22.22.03:845][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-22.22.03:845][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-22.22.03:845][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-22.22.03:845][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-22.22.03:845][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-22.22.03:845][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-22.22.03:845][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-22.22.03:846][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-22.22.03:846][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-22.22.03:865][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-22.22.03:865][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-22.22.03:915][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.05.12-22.22.03:924][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-22.22.03:927][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-22.22.03:927][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-22.22.03:931][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-22.22.03:931][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-22.22.03:931][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-22.22.03:932][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-22.22.03:933][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-22.22.03:933][  0]LogInit: FAudioDevice initialized.
+[2021.05.12-22.22.03:933][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.12-22.22.03:933][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.12-22.22.04:004][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/frang/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.12-22.22.04:005][  0]LogInit: Texture streaming: Enabled
+[2021.05.12-22.22.04:025][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.12-22.22.04:029][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.12-22.22.04:029][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.12-22.22.04:031][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.12-22.22.04:054][  0]LogInit: Transaction tracking system initialized
+[2021.05.12-22.22.04:099][  0]BlueprintLog: New page: Cargar el editor
+[2021.05.12-22.22.04:265][  0]LocalizationService: Localization service is disabled
+[2021.05.12-22.22.04:308][  0]TimingProfiler: Initialize
+[2021.05.12-22.22.04:308][  0]TimingProfiler: OnSessionChanged
+[2021.05.12-22.22.04:308][  0]LoadingProfiler: Initialize
+[2021.05.12-22.22.04:309][  0]LoadingProfiler: OnSessionChanged
+[2021.05.12-22.22.04:309][  0]NetworkingProfiler: Initialize
+[2021.05.12-22.22.04:309][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.12-22.22.04:309][  0]MemoryProfiler: Initialize
+[2021.05.12-22.22.04:309][  0]MemoryProfiler: OnSessionChanged
+[2021.05.12-22.22.04:577][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.12-22.22.04:577][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.12-22.22.04:863][  0]LogFileCache: Scanning file cache for directory 'C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/' took 0.00s
+[2021.05.12-22.22.05:306][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.12-22.22.05:316][  0]SourceControl: El control de código fuente está desactivado
+[2021.05.12-22.22.05:316][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.686
+[2021.05.12-22.22.05:329][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Juegos/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.05.12-22.22.05:332][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.12-22.22.05:332][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.05:332][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.12-22.22.05:342][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.05.12-22.22.05:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.05.12-22.22.05:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.05.12-22.22.05:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.05.12-22.22.05:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.05.12-22.22.05:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.05.12-22.22.05:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.05.12-22.22.05:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.05.12-22.22.05:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.05.12-22.22.05:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.05.12-22.22.05:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.05.12-22.22.05:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.05.12-22.22.05:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.05.12-22.22.05:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.05.12-22.22.05:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.05.12-22.22.05:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.05.12-22.22.05:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.05.12-22.22.05:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.05.12-22.22.05:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Fire01.uasset"
+[2021.05.12-22.22.05:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.05.12-22.22.05:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.05.12-22.22.05:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.05.12-22.22.05:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Light01.uasset"
+[2021.05.12-22.22.05:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.05.12-22.22.05:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Light02.uasset"
+[2021.05.12-22.22.05:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.05.12-22.22.05:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.05.12-22.22.05:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.05.12-22.22.05:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.05.12-22.22.05:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.05.12-22.22.05:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.05.12-22.22.05:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.05.12-22.22.05:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.05.12-22.22.05:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.05.12-22.22.05:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Steam01.uasset"
+[2021.05.12-22.22.05:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.05.12-22.22.05:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.05.12-22.22.05:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.05.12-22.22.05:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.05.12-22.22.05:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.05.12-22.22.05:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.05.12-22.22.05:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.05.12-22.22.05:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.05.12-22.22.05:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.05.12-22.22.05:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.05.12-22.22.05:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.05.12-22.22.05:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.05.12-22.22.05:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.05.12-22.22.05:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.05.12-22.22.05:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.05.12-22.22.05:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.05.12-22.22.05:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.05.12-22.22.05:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.05.12-22.22.05:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.05.12-22.22.05:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.05.12-22.22.05:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.05.12-22.22.05:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.05.12-22.22.05:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Maps/StarterMap.umap"
+[2021.05.12-22.22.05:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.05.12-22.22.05:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.05.12-22.22.05:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.05.12-22.22.05:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.05.12-22.22.05:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.05.12-22.22.05:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.05.12-22.22.05:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.05.12-22.22.05:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.05.12-22.22.05:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.05.12-22.22.05:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.05.12-22.22.05:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.05.12-22.22.05:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.05.12-22.22.05:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.05.12-22.22.05:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.05.12-22.22.05:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.05.12-22.22.05:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.05.12-22.22.05:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.05.12-22.22.05:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.05.12-22.22.05:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.05.12-22.22.05:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.05.12-22.22.05:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.05.12-22.22.05:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.05.12-22.22.05:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.05.12-22.22.05:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.05.12-22.22.05:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.05.12-22.22.05:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.05.12-22.22.05:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.05.12-22.22.05:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.05.12-22.22.05:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.05.12-22.22.05:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.05.12-22.22.05:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.05.12-22.22.05:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.05.12-22.22.05:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.05.12-22.22.05:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.05.12-22.22.05:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.05.12-22.22.05:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.05.12-22.22.05:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.05.12-22.22.05:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.05.12-22.22.05:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.05.12-22.22.05:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.05.12-22.22.05:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.05.12-22.22.05:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.05.12-22.22.05:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.05.12-22.22.05:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.05.12-22.22.05:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.05.12-22.22.05:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.05.12-22.22.05:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.05.12-22.22.05:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.05.12-22.22.05:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.05.12-22.22.05:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.05.12-22.22.05:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.05.12-22.22.05:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.05.12-22.22.05:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.05.12-22.22.05:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.05.12-22.22.05:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.05.12-22.22.05:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.05.12-22.22.05:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.05.12-22.22.05:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.05.12-22.22.05:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.05.12-22.22.05:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.05.12-22.22.05:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.05.12-22.22.05:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.05.12-22.22.05:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.05.12-22.22.06:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.05.12-22.22.06:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.05.12-22.22.06:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_Door.uasset"
+[2021.05.12-22.22.06:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.05.12-22.22.06:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.05.12-22.22.06:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.05.12-22.22.06:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.05.12-22.22.06:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.05.12-22.22.06:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.05.12-22.22.06:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.05.12-22.22.06:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.05.12-22.22.06:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.05.12-22.22.06:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.05.12-22.22.06:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.05.12-22.22.06:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.05.12-22.22.06:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.05.12-22.22.06:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.05.12-22.22.06:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.05.12-22.22.06:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.05.12-22.22.06:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.05.12-22.22.06:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.05.12-22.22.06:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.05.12-22.22.06:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.05.12-22.22.06:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.05.12-22.22.06:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.05.12-22.22.06:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.05.12-22.22.06:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.05.12-22.22.06:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.05.12-22.22.06:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.05.12-22.22.06:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.05.12-22.22.06:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.05.12-22.22.06:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.05.12-22.22.06:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.05.12-22.22.06:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.05.12-22.22.06:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.05.12-22.22.06:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.05.12-22.22.06:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.05.12-22.22.06:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.05.12-22.22.06:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.05.12-22.22.06:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.05.12-22.22.06:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.05.12-22.22.06:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.05.12-22.22.06:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.05.12-22.22.06:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.05.12-22.22.06:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.05.12-22.22.06:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.05.12-22.22.06:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.05.12-22.22.06:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.05.12-22.22.06:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.05.12-22.22.06:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.05.12-22.22.06:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.05.12-22.22.06:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.05.12-22.22.06:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.05.12-22.22.06:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.05.12-22.22.06:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.05.12-22.22.06:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.05.12-22.22.06:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.05.12-22.22.06:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.05.12-22.22.06:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.05.12-22.22.06:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.05.12-22.22.06:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.05.12-22.22.06:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.05.12-22.22.06:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.05.12-22.22.06:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.05.12-22.22.06:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.05.12-22.22.06:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.05.12-22.22.06:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.05.12-22.22.06:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.05.12-22.22.06:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.05.12-22.22.06:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.05.12-22.22.06:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.05.12-22.22.06:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.05.12-22.22.06:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.05.12-22.22.06:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.05.12-22.22.06:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.05.12-22.22.06:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.05.12-22.22.06:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.05.12-22.22.06:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.05.12-22.22.06:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.05.12-22.22.06:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.05.12-22.22.06:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.05.12-22.22.06:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.05.12-22.22.06:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.05.12-22.22.06:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.05.12-22.22.06:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.05.12-22.22.06:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.05.12-22.22.06:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.05.12-22.22.06:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.05.12-22.22.06:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.05.12-22.22.06:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.05.12-22.22.06:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.05.12-22.22.06:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.05.12-22.22.07:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.05.12-22.22.07:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.05.12-22.22.07:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.05.12-22.22.07:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.05.12-22.22.07:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.05.12-22.22.07:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.05.12-22.22.07:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.05.12-22.22.07:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.05.12-22.22.07:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.05.12-22.22.07:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.05.12-22.22.07:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.05.12-22.22.07:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.05.12-22.22.07:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.05.12-22.22.07:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.05.12-22.22.07:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.05.12-22.22.07:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.05.12-22.22.07:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.05.12-22.22.07:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.05.12-22.22.07:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.05.12-22.22.07:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.05.12-22.22.07:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.05.12-22.22.07:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.05.12-22.22.07:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.05.12-22.22.07:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.05.12-22.22.07:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.05.12-22.22.07:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.05.12-22.22.07:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.05.12-22.22.07:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.05.12-22.22.07:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.05.12-22.22.07:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.05.12-22.22.07:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.05.12-22.22.07:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.05.12-22.22.07:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.05.12-22.22.07:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.05.12-22.22.07:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.05.12-22.22.07:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.05.12-22.22.07:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.05.12-22.22.07:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.05.12-22.22.07:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.05.12-22.22.07:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.05.12-22.22.07:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.05.12-22.22.07:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.05.12-22.22.07:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.05.12-22.22.07:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.05.12-22.22.07:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.05.12-22.22.07:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.05.12-22.22.07:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.05.12-22.22.07:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.05.12-22.22.07:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.05.12-22.22.07:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.05.12-22.22.07:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.05.12-22.22.07:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.05.12-22.22.07:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.05.12-22.22.07:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.05.12-22.22.07:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.05.12-22.22.07:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.05.12-22.22.07:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.05.12-22.22.08:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.05.12-22.22.08:047][  0]LogStaticMesh: Generando la malla estática Floor_400x400...
+[2021.05.12-22.22.08:051][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.05.12-22.22.08:216][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.05.12-22.22.08:971][  0]LogSavePackage: Moving 'C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Saved/Floor_400x400546F983C4403659CEE218ABF8CB3A5F8.tmp' to 'C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.05.12-22.22.08:975][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.05.12-22.22.08:978][  0]Cmd: MAP LOAD FILE="C:/Users/frang/Documents/BuddyJam2021/BuddyJam/BuddyJam/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.12-22.22.08:980][  0]LightingResults: New page: Diseñar la iluminación
+[2021.05.12-22.22.08:990][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-22.22.08:991][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-22.22.08:997][  0]MapCheck: New page: Revisión del mapa
+[2021.05.12-22.22.08:997][  0]LightingResults: New page: Diseñar la iluminación
+[2021.05.12-22.22.09:044][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.05.12-22.22.09:628][  0]LogTexture: Display: Building textures: DeprecatedTextureFA79271141B0C16E0AB806B8FE9AB1E1 (BGRA8, 128X128)
+[2021.05.12-22.22.09:637][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.05.12-22.22.09:639][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-22.22.09:697][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.12-22.22.09:703][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.05.12-22.22.09:719][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.05.12-22.22.09:722][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.12-22.22.09:723][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,292ms to complete.
+[2021.05.12-22.22.09:723][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.746
+[2021.05.12-22.22.09:744][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.114
+[2021.05.12-22.22.10:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-22.22.10:055][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-22.22.10:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-22.22.10:077][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-22.22.10:145][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0178 seconds. Added 3601 classes and 859 folders.
+[2021.05.12-22.22.10:158][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.12-22.22.10:165][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.12-22.22.10:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.12-22.22.10:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000331
+[2021.05.12-22.22.10:171][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.12-22.22.10:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.12-22.22.10:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000336
+[2021.05.12-22.22.10:174][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.12-22.22.10:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.12-22.22.10:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000340
+[2021.05.12-22.22.10:177][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.12-22.22.10:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.12-22.22.10:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000349
+[2021.05.12-22.22.10:178][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.12-22.22.10:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.12-22.22.10:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000353
+[2021.05.12-22.22.10:180][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.12-22.22.10:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.12-22.22.10:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000361
+[2021.05.12-22.22.10:182][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.12-22.22.10:182][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:182][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.12-22.22.10:182][  0]LogPakFile: OnPakFileMounted2Time == 0.000365
+[2021.05.12-22.22.10:184][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.12-22.22.10:184][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:184][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.12-22.22.10:184][  0]LogPakFile: OnPakFileMounted2Time == 0.000372
+[2021.05.12-22.22.10:186][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.12-22.22.10:186][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:186][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.12-22.22.10:186][  0]LogPakFile: OnPakFileMounted2Time == 0.000374
+[2021.05.12-22.22.10:189][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.12-22.22.10:189][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.12-22.22.10:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000379
+[2021.05.12-22.22.10:192][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.12-22.22.10:192][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:192][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.12-22.22.10:192][  0]LogPakFile: OnPakFileMounted2Time == 0.000383
+[2021.05.12-22.22.10:195][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.12-22.22.10:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.12-22.22.10:195][  0]LogPakFile: OnPakFileMounted2Time == 0.000388
+[2021.05.12-22.22.10:197][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.12-22.22.10:197][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:197][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.12-22.22.10:197][  0]LogPakFile: OnPakFileMounted2Time == 0.000392
+[2021.05.12-22.22.10:200][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.12-22.22.10:200][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:200][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.12-22.22.10:200][  0]LogPakFile: OnPakFileMounted2Time == 0.000401
+[2021.05.12-22.22.10:205][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.12-22.22.10:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.12-22.22.10:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000407
+[2021.05.12-22.22.10:207][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.12-22.22.10:207][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:207][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.12-22.22.10:207][  0]LogPakFile: OnPakFileMounted2Time == 0.000414
+[2021.05.12-22.22.10:210][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.12-22.22.10:210][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:210][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.12-22.22.10:210][  0]LogPakFile: OnPakFileMounted2Time == 0.000423
+[2021.05.12-22.22.10:213][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.12-22.22.10:213][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:213][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.12-22.22.10:213][  0]LogPakFile: OnPakFileMounted2Time == 0.000430
+[2021.05.12-22.22.10:215][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.12-22.22.10:215][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:215][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.12-22.22.10:215][  0]LogPakFile: OnPakFileMounted2Time == 0.000439
+[2021.05.12-22.22.10:217][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.12-22.22.10:218][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:218][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.12-22.22.10:218][  0]LogPakFile: OnPakFileMounted2Time == 0.000449
+[2021.05.12-22.22.10:220][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.12-22.22.10:220][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:220][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.12-22.22.10:221][  0]LogPakFile: OnPakFileMounted2Time == 0.000499
+[2021.05.12-22.22.10:223][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.12-22.22.10:223][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:223][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.12-22.22.10:223][  0]LogPakFile: OnPakFileMounted2Time == 0.000503
+[2021.05.12-22.22.10:225][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.12-22.22.10:226][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:226][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.12-22.22.10:226][  0]LogPakFile: OnPakFileMounted2Time == 0.000508
+[2021.05.12-22.22.10:228][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.12-22.22.10:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:228][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.12-22.22.10:228][  0]LogPakFile: OnPakFileMounted2Time == 0.000511
+[2021.05.12-22.22.10:230][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.12-22.22.10:230][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:230][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.12-22.22.10:230][  0]LogPakFile: OnPakFileMounted2Time == 0.000515
+[2021.05.12-22.22.10:232][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.12-22.22.10:232][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.12-22.22.10:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.12-22.22.10:233][  0]LogPakFile: OnPakFileMounted2Time == 0.000519
+[2021.05.12-22.22.10:365][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.12-22.22.10:373][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.05.12-22.22.10:528][  0]LogSlate: Took 0.000973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.12-22.22.10:534][  0]LogSlate: Took 0.001636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.12-22.22.10:558][  0]LogSlate: Took 0.014618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.12-22.22.10:914][  0]LogRenderer: Reallocating scene render targets to support 804x340 Format 10 NumSamples 1 (Frame:1).
+[2021.05.12-22.22.11:052][  0]LogSlate: Took 0.002447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.12-22.22.11:556][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.12-22.22.11:556][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.12-22.22.11:556][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.05.12-22.22.11:556][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.12-22.22.11:556][  0]LogLoad: (Engine Initialization) Total time: 18.93 seconds
+[2021.05.12-22.22.11:556][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.12-22.22.11:556][  0]LogInit: First time updating LLM stats...
+[2021.05.12-22.22.11:592][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.05.12-22.22.11:592][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.05.12-22.22.11:860][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.12-22.22.11:962][  1]LogAssetRegistry: Asset discovery search completed in 12.4600 seconds
+[2021.05.12-22.22.11:969][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000364 seconds (updated 0 objects)
+[2021.05.12-22.25.05:061][507]LogSlate: Took 0.023615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.12-22.25.10:086][722]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
