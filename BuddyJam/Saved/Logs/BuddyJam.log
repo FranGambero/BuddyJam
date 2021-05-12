@@ -1072,3 +1072,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.12-22.22.11:860][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.05.12-22.22.11:962][  1]LogAssetRegistry: Asset discovery search completed in 12.4600 seconds
 [2021.05.12-22.22.11:969][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000364 seconds (updated 0 objects)
+[2021.05.12-22.25.05:061][507]LogSlate: Took 0.023615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.12-22.25.10:086][722]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
